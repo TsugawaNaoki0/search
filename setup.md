@@ -6,6 +6,10 @@ apt-get install apache2
 
 sudo dpkg --configure -a
 
+apt install -y php
+
+-------------------------------------------------------------
+
 mv /var/www/
 
 rm -rf html
