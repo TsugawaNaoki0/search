@@ -21,3 +21,5 @@ cd html
 git clone https://github.com/TsugawaNaoki0/search.git
 
 mv search/* ./
+
+chmod 777 result.txt
