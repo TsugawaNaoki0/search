@@ -1,3 +1,11 @@
 .main{
   text-align: center;
+  background-color: gray;
+
+}
+
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+
 }
