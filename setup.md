@@ -10,7 +10,7 @@ apt install -y php
 
 -------------------------------------------------------------
 
-mv /var/www/
+cd /var/www/
 
 rm -rf html
 
