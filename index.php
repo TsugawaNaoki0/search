@@ -6,11 +6,6 @@
     <title></title>
   </head>
   <body>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <div class="main">
       <form class="" action="./index.php" method="post">
         <div class="">
@@ -21,8 +16,8 @@
           <br>
           <br>
           <br>
-          <input type="text" name="text" value="">
-          <input type="submit" name="" value="検索">
+          <input type="text" name="text" value="" class="login">
+          <input type="submit" name="" value="検索" class="login">
         </div>
       </form>
       <br>
@@ -65,22 +60,6 @@
             }
           }
       ?>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
       <br>
       <br>
       <br>
