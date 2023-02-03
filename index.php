@@ -27,28 +27,28 @@
       <br>
       <br>
       <?php
-        $word =  $_POST[text];
-        echo "検索ワード：「".$word."」";
+        $sakana =  $_POST[text];
+        echo "検索ワード：「".$sakana."」";
         ?>
         <br>
         <br>
         <hr>
         <br>
         <?php
-        $database = file(__DIR__ . '/links.txt');
-        $url_db = file(__DIR__ . '/urls.txt');
+        $momoniku = file(__DIR__ . '/links.txt');
+        $ebi = file(__DIR__ . '/urls.txt');
 
-        $count = count($database, COUNT_RECURSIVE);
-        $count_urls = count($url_db, COUNT_RECURSIVE);
+        $yaki_doufu = count($momoniku, COUNT_RECURSIVE);
+        $momen_doufu = count($ebi, COUNT_RECURSIVE);
 
-        for ($i = 0; $i < $count; $i++){
-          if (strpos(substr($database[$i], 8), $word) !== false){
-            $index_database = substr($database[$i], 0, 8);
-            for ($j = 0; $j < $count_urls; $j++){
-              // echo $index_database;
-              if (strpos($url_db[$i], $index_database) !== false){
-                // echo $index_database;
-                echo "<a href=\"".substr($url_db[$i], 8)."\">".substr($database[$i], 8)."</a>";
+        for ($i = 0; $i < $yaki_doufu; $i++){
+          if (strpos(substr($momoniku[$i], 8), $sakana) !== false){
+            $index_momoniku = substr($momoniku[$i], 0, 8);
+            for ($j = 0; $j < $momen_doufu; $j++){
+              // echo $index_momoniku;
+              if (strpos($ebi[$i], $index_momoniku) !== false){
+                // echo $index_momoniku;
+                echo "<a href=\"".substr($ebi[$i], 8)."\">".substr($momoniku[$i], 8)."</a>";
                 break;
               }
             }

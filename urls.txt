@@ -10,3 +10,16 @@
 <<0010>>https://higedan.com/
 <<0011>>https://higedan.com/
 <<0012>>https://higedan.com/
+<<0013>>./profile/0013.html
+<<0014>>https://zh.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8A%E5%BE%B9%E4%B9%9F
+<<0015>>./profile/0015.html
+<<0016>>https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%83%A0%E7%9C%9F%E7%90%86%E6%95%99
+<<0017>>./profile/0017.html
+<<0018>>./profile/0018.html
+<<0019>>./profile/0019.html
+<<0020>>./profile/0020.html
+<<0021>>./profile/0021.html
+<<0022>>./profile/0022.html
+<<0023>>./profile/0023.html
+<<0024>>https://www.hitachi-systems.com/
+<<0025>>https://www.hitachi-systems.com/
