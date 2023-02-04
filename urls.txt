@@ -23,3 +23,12 @@
 <<0023>>./profile/0023.html
 <<0024>>https://www.hitachi-systems.com/
 <<0025>>https://www.hitachi-systems.com/
+<<0026>>./profile/0026.html
+<<0027>>./profile/0026.html
+<<0028>>https://www.mitsubishicorp.com/jp/ja/
+<<0029>>https://www.mitsui.com/jp/ja/
+<<0030>>https://www.itochu.co.jp/ja/
+<<0031>>https://www.marubeni.com/jp/
+<<0032>>https://www.sumitomocorp.com/ja/jp
+<<0033>>https://www.toyota-tsusho.com/
+<<0034>>https://www.sojitz.com/jp/
