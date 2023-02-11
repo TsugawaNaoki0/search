@@ -6,6 +6,36 @@
     <title></title>
   </head>
   <body>
+
+
+
+      <dl>
+      <dt>写真</dt>
+      <dd>
+        <div>
+          <label><span>背面カメラ</span>
+          <input type="file" capture="environment" accept="image/*"></label>
+        </div>
+      <div>
+    <label><span>インカメラ</span>
+    <input type="file" capture="user" accept="image/*"></label>
+    </div>
+  </dd>
+  <dt>動画</dt>
+  <dd>
+    <div>
+    <label><span>背面カメラ</span>
+    <input type="file" capture="environment" accept="video/*"></label>
+    </div>
+    <div>
+    <label><span>インカメラ</span>
+    <input type="file" capture="user" accept="video/*"></label>
+    </div>
+  </dd>
+</dl>
+
+
+
     <div class="main">
       <form class="" action="./index.php" method="post">
         <div class="">
