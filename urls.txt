@@ -32,3 +32,4 @@
 <<0032>>https://www.sumitomocorp.com/ja/jp
 <<0033>>https://www.toyota-tsusho.com/
 <<0034>>https://www.sojitz.com/jp/
+<<0035>>./profile/water_stop.html
