@@ -33,3 +33,11 @@
 <<0033>>https://www.toyota-tsusho.com/
 <<0034>>https://www.sojitz.com/jp/
 <<0035>>./profile/water_stop.html
+<<0036>>./profile/water_payment.html
+<<0037>>./profile/electricity_payment.html
+<<0038>>./profile/gas_payment.html
+<<0039>>https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%90%E3%82%B1
+<<0040>>https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%90%E3%82%B1
+<<0041>>https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%90%E3%82%B1
+<<0042>>https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%90%E3%82%B1
+<<0043>>https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE

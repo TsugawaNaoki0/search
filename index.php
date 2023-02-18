@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="./home.css">
-    <title></title>
+    <title>SEARCH</title>
   </head>
   <body>
     <div class="main">
-      <form class="" action="./index.php" method="post">
+      <form class="" action="" method="post">
         <div class="">
           <br>
           <br>
